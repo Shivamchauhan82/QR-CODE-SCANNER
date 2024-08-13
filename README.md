@@ -1,0 +1,2 @@
+QR Code Scanner is a versatile and user-friendly app designed to generate and scan QR codes with ease. Whether you're sharing links, contact information, or payment details, QR Code Scanner ensures a seamless and secure experience. With a simple interface, users can create custom QR codes for various purposes and quickly scan codes to access content. The app also offers history tracking, allowing users to revisit scanned codes. Perfect for both personal and professional use, QR Code Scanner makes the process of sharing and receiving information faster and more efficient.
+
